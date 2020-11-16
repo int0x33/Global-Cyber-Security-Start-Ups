@@ -191,6 +191,7 @@ A complete list of global cyber security start-ups and small to medium sized ent
 ## United Arab Emirates
 ## United Kingdom
 ## United States
+* https://aliasrobotics.com/
 ## Uruguay
 ## Uzbekistan
 ## Vanuatu
