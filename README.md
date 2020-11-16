@@ -190,8 +190,10 @@ A complete list of global cyber security start-ups and small to medium sized ent
 ## Ukraine
 ## United Arab Emirates
 ## United Kingdom
+* https://traced.app/ (Oxford)
+* https://silenteight.com/ (London)
 ## United States
-* https://aliasrobotics.com/
+* https://aliasrobotics.com/ (Boston, MA)
 ## Uruguay
 ## Uzbekistan
 ## Vanuatu
@@ -201,3 +203,4 @@ A complete list of global cyber security start-ups and small to medium sized ent
 ## Yemen
 ## Zambia
 ## Zimbabwe
+
