@@ -192,6 +192,7 @@ A complete list of global cyber security start-ups and small to medium sized ent
 ## United Kingdom
 * https://traced.app/ (Oxford)
 * https://silenteight.com/ (London)
+* https://www.ava.uk/ (London, Oslo & New York)
 ## United States
 * https://aliasrobotics.com/ (Boston, MA)
 ## Uruguay
