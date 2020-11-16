@@ -141,6 +141,7 @@ A complete list of global cyber security start-ups and small to medium sized ent
 ## Peru
 ## Philippines
 ## Poland
+* https://moixsec.com/
 ## Portugal
 ## Qatar
 ## Romania
@@ -172,6 +173,7 @@ A complete list of global cyber security start-ups and small to medium sized ent
 ## Sweden
 ## Switzerland
 * https://cysecmap.swiss/
+* https://safeswiss.com/
 ## Syria
 ## Taiwan
 ## Tajikistan
